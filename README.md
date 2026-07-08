@@ -47,15 +47,15 @@ I am especially interested in SDE roles where I can keep growing in frontend, ba
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python,MySQL,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,python,MySQL,html,css" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,redis" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,redis" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,vercel" />
 </p>
 
 ---
