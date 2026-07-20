@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sanchit%20Ghumare&fontSize=52&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=62&color=gradient&customColorList=6,11,18,25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sanchit%20Ghumare&fontSize=52&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20&descAlignY=62&color=gradient&customColorList=6,11,18,25" />
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/IT%20Engineering%20Student-1E1B4B?style=for-the-badge&logo=googleclassroom&logoColor=white" />
   <img src="https://img.shields.io/badge/SDE%20Track-312E81?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLM%20Builder-4C1D95?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <p align="center">
