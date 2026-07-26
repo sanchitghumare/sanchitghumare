@@ -91,7 +91,26 @@ AniMind is a modular AI assistant and recommendation platform built around anime
 * Responsive UI and GitHub OAuth authentication
 
 </details>
+<details>
+<summary><strong>CodeAtlas — AI-Powered GitHub Repository Review Platform</strong></summary>
 
+CodeAtlas is an AI-powered code review platform that analyzes GitHub repositories and generates repository-wide insights, per-file reviews, and actionable recommendations. It combines GitHub Apps, LangGraph workflows, and LLMs to automate engineering-focused code analysis with real-time progress tracking.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| ------ | ----- | ----------- | -------- | ------ | ---------- |
+| Next.js, FastAPI, LangGraph, GitHub Apps, MongoDB, Tailwind CSS | Personal production-style project | Real-time SSE progress updates, optimized file selection, asynchronous review pipeline | GitHub App authentication, secure backend APIs, repository access control | Demonstrates AI workflows, backend architecture, and developer tooling | GitHub |
+
+**Engineering focus:**
+
+* AI-powered repository analysis using LangGraph multi-stage workflows
+* Repository-wide insights, per-file reviews, and architecture-level recommendations
+* GitHub App integration for secure access to public and private repositories
+* FastAPI backend with asynchronous processing and Server-Sent Events for live progress updates
+* Intelligent file prioritization to analyze the most relevant source code while skipping generated and framework files
+* Interactive AI chat for follow-up questions about generated review reports
+* Modern dashboard with repository browser, review history, and comprehensive analysis reports
+
+</details>
 <details>
 <summary><strong>Stratos — Academic Command Center</strong></summary>
 
