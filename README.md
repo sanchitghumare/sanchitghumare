@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" />
   <a href="mailto:sanchitghumare246@gmail.com"><img src="https://img.shields.io/badge/Email-sanchitghumare246%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/hb29G077yR/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <!-- <a href="https://leetcode.com/u/hb29G077yR/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a> -->
   <a href="https://github.com/sanchitghumare"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
@@ -35,11 +35,11 @@ I am especially interested in SDE roles where I can keep growing in frontend, ba
 
 ## Engineering Highlights
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/CGPA-9.27%2F10-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-300%2B%20Problems-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-1600%2B%20Contest%20Rating-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+</p> -->
 
 ---
 
@@ -112,18 +112,19 @@ CodeAtlas is an AI-powered code review platform that analyzes GitHub repositorie
 
 </details>
 <details>
-<summary><strong>Stratos — Academic Command Center</strong></summary>
+<summary><strong>Academix — Academic Command Center</strong></summary>
 
-Stratos is a full-stack academic productivity platform built to centralize student workflows. It combines attendance tracking, SGPA calculation, timetable management, resource organization, and AI-assisted PDF querying.
+Academix is a full-stack academic productivity platform built to centralize student workflows. It combines attendance tracking, SGPA calculation, timetable management, resource organization, AI-assisted PDF querying, and smart notifications.
 
 | Stack                                                    | Scale                             | Performance                                       | Security                                             | Impact                                              | Repository |
 | -------------------------------------------------------- | --------------------------------- | ------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- | ---------- |
-| Next.js, React, Node.js, Express.js, MongoDB, Cloudinary | Personal production-style project | Structured dashboard workflows with responsive UI | Secure authentication and cloud-backed file handling | Helps students manage academic tasks from one place | GitHub     |
+| Next.js, React, Node.js, Express.js, MongoDB, Cloudinary, Firebase Cloud Messaging | Personal production-style project | Structured dashboard workflows with responsive UI | Secure authentication and cloud-backed file handling | Helps students manage academic tasks from one place | GitHub     |
 
 **Engineering focus:**
 
 * Attendance analytics, bunk prediction, and next lecture scheduling
 * AI-powered PDF assistant for querying uploaded academic resources
+* User-configurable attendance alerts and daily summary notifications
 * Centralized academic resource management
 * Cloudinary-backed file storage and polished dashboard UX
 * Full-stack architecture with practical student utility
@@ -159,11 +160,11 @@ open_to:
 
 ## Coding Profiles
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/u/hb29G077yR/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</p>
+</p> -->
 
 ---
 
